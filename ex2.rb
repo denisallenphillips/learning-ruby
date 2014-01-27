@@ -4,6 +4,6 @@
 puts "I could have code like this." # buckley eats a lot.
 
 # buckley loves his hippo.
-puts "this won't run."
+#puts "this won't run."
 puts "This will run."
 
